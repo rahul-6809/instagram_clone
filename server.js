@@ -23,10 +23,10 @@ mongoose
 
 
 
-  app.use(express.static(path.join(__dirname,'../frontent/build')));
+  app.use(express.static(path.join(__dirname,'./frontent/build')));
 
   app.get('*',(req,res) =>{
-    res.sendFile(path.join(__dirname,'../frontent/build/index.html'),
+    res.sendFile(path.join(__dirname,'./frontent/build/index.html'),
     (err) =>{res.status(500).send(err)});
   })
 
