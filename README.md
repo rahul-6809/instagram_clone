@@ -4,7 +4,7 @@ Welcome to the Instagram Clone repository! This repository contains the code and
 
 ## Live Demo
 
-You can explore the live version of the Instagram clone by visiting [(https://insta-clone-l8w0.onrender.com)].
+You can explore the live version of the Instagram clone by visiting [((https://newinstagram-clone.onrender.com))].
 
 ## Features
 
